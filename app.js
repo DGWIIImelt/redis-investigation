@@ -11,7 +11,7 @@ async function nodeRedisDemo () {
   //   `https://api.intercom.io/articles`, // returns first page, defaults to 25 results / page
   //   {
   //     headers: {
-  //       authorization: "Bearer dG9rOmI2YWE3YzQ3X2Y5M2NfNDBmZV85YjM5XzE4MjMzNDhjODZkZjoxOjA="
+  //       authorization: "GETYOUROWN"
   //     }
   //   })
   //   .then((response) => {
